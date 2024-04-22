@@ -75,7 +75,7 @@ body {
   height: auto; /* คุณสามารถใส่ height: auto; เพื่อให้สูงตามสัดส่วน */
 }
 
-@media (max-width: 576px) {
+@media (max-width: 1080px) {
   .img-sapa {
     display: flex;
     justify-content: center;
@@ -401,7 +401,7 @@ h1, .h1 {
   font-size: 2.5rem;
 }
 
-@media (max-width: 576px) {
+@media (max-width: 1080px) {
   h1, .h1 {
     font-size: 1.8rem;
   }
@@ -411,7 +411,7 @@ h2, .h2 {
   font-size: 2rem;
 }
 
-@media (max-width: 576px) {
+@media (max-width: 1080px) {
   h2, .h2 {
     font-size: 1.5rem;
   }
@@ -429,7 +429,7 @@ h5, .h5 {
   font-size: 1.25rem;
 }
 
-@media (max-width: 576px) {
+@media (max-width: 1080px) {
   h5, .h5 {
     font-size: 0.9rem;
   }

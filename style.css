@@ -25,7 +25,7 @@ html,body
   }
 }
 
-@media (max-width: 576px) {
+@media (max-width: 1080px) {
   .img-logosapa {
     img {
       width: 50%;
@@ -103,7 +103,7 @@ html,body
   margin: 0 auto;
 }
 
-@media (max-width: 576px) {
+@media (max-width: 1080px) {
   .heading_container {
     display: flex;
     justify-content: center; /* จัดให้ข้อความตรงกลางแนวนอน */
